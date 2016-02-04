@@ -16,8 +16,8 @@
 	    <script type="text/javascript" defer="true">
 	    
 	    	window.onload = function(){
-	   			Dynamsoft.WebTwainEnv.Load();
-	                   
+                Dynamsoft.WebTwainEnv.Unload();      
+	   			Dynamsoft.WebTwainEnv.Load();        
 			};
 	
 	        function AcquireImage() {
