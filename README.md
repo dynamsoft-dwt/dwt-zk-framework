@@ -21,6 +21,10 @@ The sample demonstrates how to make [DWT][0] work with ZK framework.
 4. Run app: **Run As > Maven Build…**
 5. Visit **http://localhost:8080/dwt/index.zul**.
 
+## Blog
+[How to Use Dynamic Web TWAIN with ZK Framework][3]
+
 [0]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
 [1]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [2]:https://www.zkoss.org/download/zk
+[3]:http://www.codepool.biz/dynamic-web-twain-zk-framework.html
